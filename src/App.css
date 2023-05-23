@@ -1,0 +1,18 @@
+.bodyContainer {
+  background-color: #61dafb;
+  display: flex;
+  align-items: center;
+  justify-content: space;
+  width: 100%;
+  color: black;
+}
+
+
+
+.articlesContainer {
+  font-size: 20px;
+  
+}
+.articleLink {
+  text-decoration: none;
+}
