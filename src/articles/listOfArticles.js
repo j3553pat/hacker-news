@@ -4,7 +4,7 @@ import Article from './articles'
 import SearchForItem from './searchForItem'
 
 const ArticleList = () => {
-    const API = 'http://hn.algolia.com/api/v1/search?'
+    const API = 'https://hn.algolia.com/api/v1/search?'
     const [loadArticle, setLoadArticle] = useState(true)
     const [articles, setArticles] = useState(null)
 
